@@ -17,7 +17,7 @@ import com.example.mikhailvetyugov.badgesample.dummy.DummyContent;
  * in two-pane mode (on tablets) or a {@link ItemDetailActivity}
  * on handsets.
  */
-public class ItemDetailFragment extends Fragment {
+public class ItemDetailFragment extends Fragment 
     /**
      * The fragment argument representing the item ID that this fragment
      * represents.
